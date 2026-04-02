@@ -37,7 +37,7 @@ While analyzing the logs, I found:
 ![Failed Login](screenshots/failed_login.png)
 
 ### 🔹 Dashboard Visualization
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dash.png)
 
 ---
 
